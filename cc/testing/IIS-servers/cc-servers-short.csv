@@ -1,0 +1,3 @@
+#TYPE Microsoft.ActiveDirectory.Management.ADComputer,,,,,,,,
+DistinguishedName,DNSHostName,Enabled,Name,ObjectClass,ObjectGUID,SamAccountName,SID,UserPrincipalName
+"CN=CCN-INTRA,OU=Infrastructure Servers,OU=Citrix,DC=CConnect,DC=local",CCN-INTRA.CConnect.local,True,CCN-INTRA,computer,0e815d7f-558b-4449-9280-2fb30ade7cc1,CCN-INTRA$,S-1-5-21-4249319270-1195879320-2728564864-15619,

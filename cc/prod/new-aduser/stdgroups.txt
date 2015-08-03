@@ -1,0 +1,14 @@
+ALLSTAFF
+CCNUsers
+INTERNET-GeneralUser
+intra-all-users
+intra-CCG-users
+intra-CCL-users
+Users
+XenApp65CommonApps
+XenApp65GoldCare
+XenApp65MicrosoftExcel
+XenApp65MicrosoftOutlook
+XenApp65MicrosoftPowerpoint
+XenApp65MicrosoftWord
+XenApp65PubDesktop

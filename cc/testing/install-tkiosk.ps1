@@ -1,0 +1,1 @@
+msiexec /I ThinKioskClientSetup.msi SERVERNAME="ccnauth.cconnect.local" SERVERPORT="11000" CONNECTIONTYPE=0 ALUSERNAME=tkiosk ALPASSWORD=Melbourne123 ALDOMAIN=cconnect.local /QB /L*V "%USERPROFILE%\TK.LOG"
